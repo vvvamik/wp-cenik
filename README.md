@@ -46,6 +46,20 @@ V administraci WordPressu přejděte na **Ceník > Skupiny ceníků**. Přidejte
 Ano, použijte atribut `group` v shortcodu pro filtrování dle kategorie. Například:  
 `[responsive_table group="vase-kategorie-slug"]`
 
+= Jak přidám překlady? =  
+Použijte šablonu pro překlady (`.pot`) umístěnou ve složce `languages` a vytvořte překlady pro požadovaný jazyk. Přeložené `.po` soubory zkompilujte do `.mo` a nahrajte je zpět do složky `languages`.
+
+== Screenshoty ==
+
+1. **Administrace - Přidání nové položky**  
+   ![Přidání položky](screenshot-1.png)
+
+2. **Responzivní tabulka - Zobrazení na webu**  
+   ![Zobrazení ceníku](screenshot-2.png)
+
+3. **Administrace - Správa kategorií**  
+   ![Správa kategorií](screenshot-3.png)
+
 == Změny ==
 
 = 1.0 =  
