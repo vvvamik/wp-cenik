@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+
+#: price-plugin.php:11
+msgid "Ceník"
+msgstr "Ceník"
+
+#: price-plugin.php:12
+msgid "Položka ceníku"
+msgstr "Položka ceníku"
+
+#: price-plugin.php:28
+msgid "Skupiny ceníků"
+msgstr "Skupiny ceníků"
+
+#: price-plugin.php:29
+msgid "Skupina ceníků"
+msgstr "Skupina ceníků"
+
+#: price-plugin.php:42
+msgid "Detaily položky"
+msgstr "Detaily položky"
+
+#: price-plugin.php:53
+msgid "Cena (Kč):"
+msgstr "Cena (Kč):"
+
+#: price-plugin.php:59
+msgid "Popis:"
+msgstr "Popis:"
+
+#: price-plugin.php:98
+msgid "Žádné položky nebyly nalezeny."
+msgstr "Žádné položky nebyly nalezeny."

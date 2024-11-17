@@ -1,0 +1,71 @@
+.responsive-table {
+    display: table;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.table-row {
+    display: table-row;
+    border-bottom: 1px dashed #ddd;
+}
+
+.table-cell {
+    display: table-cell;
+    padding: 15px 50px 20px 0px;
+    vertical-align: top;
+    text-align: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+/* Nadpis a cena v jedné řádce */
+.service-header {
+    display: flex;
+    justify-content: space-between; /* Zajistí zarovnání doleva a doprava */
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.service-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: left; /* Zarovná název doleva */
+}
+
+.price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #000;
+    text-align: right; /* Zarovná cenu doprava */
+}
+
+/* Detaily pod názvem a cenou */
+.service-details {
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Responzivita */
+@media (max-width: 768px) {
+    .responsive-table {
+        display: block;
+    }
+
+    .table-row {
+        display: block;
+    }
+
+    .table-cell {
+        display: block;
+        width: 100%;
+        border-bottom: 1px dashed #ddd;
+    }
+
+    .service-header {
+        display: flex;
+        justify-content: space-between; /* Zůstane zachované zarovnání na mobilu */
+        text-align: left;
+    }
+}
