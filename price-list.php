@@ -84,7 +84,7 @@ function responsive_table_shortcode_dynamic($atts) {
         'post_type' => 'service',
         'posts_per_page' => -1,
         'orderby' => 'title',
-        'order' => 'ASC',
+        'order' => 'DESC',
     ];
 
     if (!empty($atts['group'])) {
