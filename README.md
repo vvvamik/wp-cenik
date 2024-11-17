@@ -52,13 +52,11 @@ Použijte šablonu pro překlady (`.pot`) umístěnou ve složce `languages` a v
 == Screenshoty ==
 
 1. **Administrace - Přidání nové položky**  
-   ![Přidání položky](screenshot-1.png)
+   ![Přidání položky]([Imgur](https://imgur.com/Y1aFEb4))
 
 2. **Responzivní tabulka - Zobrazení na webu**  
-   ![Zobrazení ceníku](screenshot-2.png)
-
-3. **Administrace - Správa kategorií**  
-   ![Správa kategorií](screenshot-3.png)
+   ![Zobrazení ceníku]([Imgur](https://imgur.com/cHcw9wj))
+   ![Správa kategorií][Imgur](https://imgur.com/uzpwFoZ)
 
 == Změny ==
 
