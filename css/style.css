@@ -8,7 +8,7 @@
 
 .table-row {
     display: table-row;
-    border-bottom: 1px dashed #ddd;
+    border-bottom: 2px dashed #ddd;
 }
 
 .table-cell {
