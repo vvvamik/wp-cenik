@@ -52,9 +52,12 @@ Použijte šablonu pro překlady (`.pot`) umístěnou ve složce `languages` a v
 == Screenshoty ==
 
 1. **Administrace - Přidání nové položky**  
-   ![wp-cenik1](https://github.com/user-attachments/assets/2d4eba9b-33ab-4942-afad-8ccb0aee1c25)
+   ![wp-cenik1](https://github.com/user-attachments/assets/cfb89174-5338-442b-aebc-4aef25a25381)
 
-2. **Responzivní tabulka - Zobrazení na webu**  
+2. **Vložení shortcodů na stránku**
+   ![wp-cenik4](https://github.com/user-attachments/assets/e0a97d39-d728-43ef-9ef7-496a6e79c147)
+
+3. **Responzivní tabulka - Zobrazení na webu**  
    ![wp-cenik2](https://github.com/user-attachments/assets/ea509eab-f530-4725-8fd5-71d397578706)
 
    ![wp-cenik3](https://github.com/user-attachments/assets/c596134c-bc42-40bb-9c7a-03155119954f)
