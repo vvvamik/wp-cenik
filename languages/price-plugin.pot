@@ -13,11 +13,11 @@ msgid "Položka ceníku"
 msgstr ""
 
 #: price-plugin.php:28
-msgid "Skupiny ceníků"
+msgid "Kategorie ceníků"
 msgstr ""
 
 #: price-plugin.php:29
-msgid "Skupina ceníků"
+msgid "Kategorie ceníků"
 msgstr ""
 
 #: price-plugin.php:42
