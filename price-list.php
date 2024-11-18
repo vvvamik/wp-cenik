@@ -24,8 +24,8 @@ function create_services_post_type() {
     // Registrace taxonomie
     register_taxonomy('service_group', 'service', [
         'labels' => [
-            'name' => __('Skupiny ceníků', 'price-plugin'),
-            'singular_name' => __('Skupina ceníků', 'price-plugin'),
+            'name' => __('Kategorie ceníků', 'price-plugin'),
+            'singular_name' => __('Kategorie ceníků', 'price-plugin'),
         ],
         'hierarchical' => true,
         'public' => true,
