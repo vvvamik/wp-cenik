@@ -3,7 +3,7 @@ Contributors: vvvamik
 Tags: ceník, kategorie, shortcode, responzivní tabulka  
 Requires at least: 5.0  
 Tested up to: 6.3  
-Requires PHP: 7.4 a vyšší
+Requires PHP: min. 7.4  
 Stable tag: 1.0  
 License: GPLv2 nebo novější  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
