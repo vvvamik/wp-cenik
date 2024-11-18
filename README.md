@@ -40,7 +40,7 @@ Plugin pro správu a zobrazení responzivního ceníku s podporou kategorií. Um
 == Často kladené dotazy ==
 
 = Jak vytvořím novou kategorii? =  
-V administraci WordPressu přejděte na **Ceník > Skupiny ceníků**. Přidejte novou skupinu a přiřaďte ji k vašim položkám.
+V administraci WordPressu přejděte na **Ceník > Kategorie ceníků**. Přidejte novou skupinu a přiřaďte ji k vašim položkám.
 
 = Mohu zobrazit pouze konkrétní kategorie? =  
 Ano, použijte atribut `group` v shortcodu pro filtrování dle kategorie. Například:  
@@ -52,7 +52,7 @@ Použijte šablonu pro překlady (`.pot`) umístěnou ve složce `languages` a v
 == Screenshoty ==
 
 1. **Administrace - Přidání nové položky**  
-   ![wp-cenik1](https://github.com/user-attachments/assets/2d4eba9b-33ab-4942-afad-8ccb0aee1c25)
+   ![wp-cenik1](https://github.com/user-attachments/assets/6d5edb9d-a15f-4805-80ed-196576d5c753)
 
 2. **Responzivní tabulka - Zobrazení na webu a mobilu**
    ![wp-cenik2](https://github.com/user-attachments/assets/ea509eab-f530-4725-8fd5-71d397578706)
