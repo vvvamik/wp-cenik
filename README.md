@@ -54,11 +54,11 @@ Použijte šablonu pro překlady (`.pot`) umístěnou ve složce `languages` a v
 1. **Administrace - Přidání nové položky**  
    ![wp-cenik1](https://github.com/user-attachments/assets/6d5edb9d-a15f-4805-80ed-196576d5c753)
 
-2. **Responzivní tabulka - Zobrazení na webu a mobilu**
+2. **Responzivní tabulka - Zobrazení na webu a mobilu**  
    ![wp-cenik2](https://github.com/user-attachments/assets/ea509eab-f530-4725-8fd5-71d397578706)
    ![wp-cenik3](https://github.com/user-attachments/assets/0778f0fd-1b64-4dbd-8758-8e9eb47d5935)
   
-3. **Vložení shortkódů na stránku**
+3. **Vložení shortkódů na stránku**  
    ![wp-cenik4](https://github.com/user-attachments/assets/36f6439e-2bce-43e9-9a69-22611f1914b4)
 
 
